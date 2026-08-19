@@ -17,37 +17,11 @@
 <h3 align="center">Featured Projects | Progetti</h3>
 
 <p align="center">
-  <a href="https://github.com/PierpaoloPernici/lazycaddy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=lazycaddy&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=lazycaddy&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="lazycaddy" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=lazycaddy&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-    </picture>
-  </a>
-  <a href="https://github.com/PierpaoloPernici/roon-extension-http-api">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="roon-extension-http-api" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-    </picture>
-  </a>
+<a href="https://github.com/PierpaoloPernici/lazycaddy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=lazycaddy&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600"/><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=lazycaddy&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/><img alt="lazycaddy" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=lazycaddy&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/></picture></a> <a href="https://github.com/PierpaoloPernici/roon-extension-http-api"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600"/><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/><img alt="roon-extension-http-api" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PierpaoloPernici/psharing-debugger">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=psharing-debugger&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=psharing-debugger&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="psharing-debugger" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=psharing-debugger&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-    </picture>
-  </a>
-  <a href="https://github.com/PierpaoloPernici/llama-swap-win">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=llama-swap-win&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=llama-swap-win&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="llama-swap-win" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=llama-swap-win&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-    </picture>
-  </a>
+<a href="https://github.com/PierpaoloPernici/psharing-debugger"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=psharing-debugger&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600"/><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=psharing-debugger&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/><img alt="psharing-debugger" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=psharing-debugger&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/></picture></a> <a href="https://github.com/PierpaoloPernici/llama-swap-win"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=llama-swap-win&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600"/><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=llama-swap-win&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/><img alt="llama-swap-win" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=llama-swap-win&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600"/></picture></a>
 </p>
 
 <h3 align="center">Stats | Dati</h3>
