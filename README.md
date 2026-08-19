@@ -24,11 +24,11 @@
       <img alt="lazycaddy" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=lazycaddy&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
     </picture>
   </a>
-  <a href="https://github.com/PierpaoloPernici/RTX5090-Qwen36-VLLM">
+  <a href="https://github.com/PierpaoloPernici/roon-extension-http-api">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=RTX5090-Qwen36-VLLM&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=RTX5090-Qwen36-VLLM&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="RTX5090-Qwen36-VLLM" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=RTX5090-Qwen36-VLLM&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=github_dark&bg_color=00000000&border_color=30363d&description_lines_count=2&card_width=420&cache_seconds=21600" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
+      <img alt="roon-extension-http-api" src="https://github-stats-extended.vercel.app/api/pin/?username=PierpaoloPernici&repo=roon-extension-http-api&show_owner=false&theme=default&bg_color=00000000&border_color=d0d7de&description_lines_count=2&card_width=420&cache_seconds=21600" />
     </picture>
   </a>
 </p>
